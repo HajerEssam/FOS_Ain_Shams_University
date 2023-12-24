@@ -12,7 +12,7 @@ milestone 1 functions :
      - realloc_block_FF
      - alloc_block_FF
 milestone 2 functions :
-  Kernel Heap :
+  -Kernel Heap :
     - initialization
     - sbrk
     - kmalloc (First Fit)
@@ -20,11 +20,11 @@ milestone 2 functions :
     - kheap_virtual_address
     - kheap_physical_address
     - krealloc (First Fit)
-  Fault Handler :
+  -Fault Handler :
     - env_page_ws_list_create_element
     - Check invalid pointers
     - Page_fault_handler
-  User Heap :
+  -User Heap :
     - initialization
     - System call to get Limit
     - System call to get page permissions
@@ -34,11 +34,11 @@ milestone 2 functions :
     -  free
     -  free_user_mem
 milestone 3 functions :
-  Fault Handler 2 :
+  -Fault Handler 2 :
     - FIFO Replacement
     - Approx LRU Placement
     - Approx LRU Replacement
-  BSD Scheduler :
+  -BSD Scheduler :
     - System call to set nice
     - Getters and Setter
     - sched_init_BSD
