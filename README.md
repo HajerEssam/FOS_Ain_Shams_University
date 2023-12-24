@@ -14,6 +14,7 @@ milestone 1 functions :
      - free_block
      - realloc_block_FF
      - alloc_block_FF
+     - alloc_block_BF
         
 milestone 2 functions :
 
