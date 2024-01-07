@@ -26,7 +26,6 @@ milestone 2 functions :
     - kfree
     - kheap_virtual_address
     - kheap_physical_address
-    - krealloc (First Fit)
   -Fault Handler :
 	
     - env_page_ws_list_create_element
